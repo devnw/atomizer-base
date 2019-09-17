@@ -1,3 +1,8 @@
+[![Build Status](https://api.travis-ci.org/benjivesterby/atomizer-base.svg?branch=master)](https://api.travis-ci.org/benjivesterby/atomizer-base.svg?branch=master)
+[![Go Report Card](https://goreportcard.com/badge/github.com/benjivesterby/atomizer-base)](https://goreportcard.com/report/github.com/benjivesterby/atomizer-base)
+[![GoDoc](https://godoc.org/github.com/benjivesterby/atomizer-base?status.svg)](https://godoc.org/github.com/benjivesterby/atomizer-base)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/benjivesterby/atomizer-base/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
